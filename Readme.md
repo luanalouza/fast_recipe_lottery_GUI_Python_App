@@ -1,5 +1,6 @@
 Recipe Lottery
-
+![screen1](https://github.com/luanalouza/fast_recipe_lottery_GUI_Python_App/assets/95712511/477592f5-b82d-4aa1-a1bc-468471f45b75)
+![screen2](https://github.com/luanalouza/fast_recipe_lottery_GUI_Python_App/assets/95712511/55dafbb7-a813-4a8f-92ce-cdce2d48c61e)
 
 Recipe Lottery is a simple desktop application built using Python's Tkinter library for selecting and displaying recipes from a SQLite database. It allows users to choose a recipe from a list of available options or randomly selects a recipe for them.
 
