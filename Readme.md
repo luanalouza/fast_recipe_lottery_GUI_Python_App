@@ -3,6 +3,9 @@ Recipe Lottery is a simple desktop application built using Python's Tkinter libr
 
 Prerequisites
 Python 3.x
+
+
+
 Installation
 Clone the repository:
 git clone https://github.com/your-username/recipe-lottery.git
