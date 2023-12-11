@@ -39,7 +39,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 
-Usage
+# Usage
 
 Upon launching the application, choose a recipe from the available options in the dropdown menu.
 
